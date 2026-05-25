@@ -1,0 +1,1 @@
+input= int("hola mundo")
